@@ -28,7 +28,8 @@ In my third artifact, I used my Inventory app once again, designed in Java, to a
 
 Through all three enhancements, I was able to use software design and engineering to add features to an already functioning mobile app. These changes dramatically changed how the app looks and works. I was able to use algorithms and data structure to clean up code and allow the app to run faster. Although 200 lines of code isn’t much, on a much larger scale the changes could be the difference between the app working or crashing. Lastly, I was able to create a database. Databases are important because it can store information in a secure spot that can be accessed and loaded when needed. These changes allowed me to think outside the box and learn new features that illustrated into new ideas that were not part of the original plan.
 
-Throughout everything I have learned in this course and program, I am confident that I have completed and mastered all five of the course outcomes.
+
+Throughout everything I have learned in this course and program, I am confident that I have completed and mastered all five of the course outcomes:
 
 *Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science*
 
