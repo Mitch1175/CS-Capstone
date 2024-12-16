@@ -1,6 +1,6 @@
-## **Professional Self-Assessment**
+# **Professional Self-Assessment**
 
-# **Professional Goals and Values**
+### **Professional Goals and Values**
 Throughout my time at SNHU, I have learned technical principles, ethical boundaries, and basic techniques that will help me to grow as a developer in the field of Computer Science. It wasn’t just the artifacts that helped me to grow, but the overall outcome of large projects to small assignments that helped me achieve this final goal. Upon graduating, I am confident that my skills and work putting together my ePortfolio will help me to succeed and learn more in the future of the field.
 
 I learned technical principles and how code works in different languages. I was able to leap over the first hurdle and learn the basics of coding and how to use it in simple programs. After that, I could take Java and Python, along with PowerShell, to alter a database and display the information in a fully functional website. I could take what I learned in C++ and use characteristics to create a 3D environment. All of the technological advances I have learned weren’t just how to code, it was how to use the code in the real world.
@@ -17,7 +17,7 @@ Software engineering and databases are important because it provides the core of
 
 Easy accessibility is widely mistaken for broken security. All parts of a program should be secure from the public, from other employees, and from the backend team of programmers. Upon studying cybersecurity prior, I have learned that using the fundamental security design principles such as least privilege, layering, MFA, and isolation are all important aspects to consider. Security is an issue that not only affects the users, but it can affect the whole company, users outside the company, and even break laws. All information should be kept confidential, use integrity, and be available to the people that are allowed to access it.
 
-# **Artifacts and Outcomes**
+### **Artifacts and Outcomes**
 My artifacts were chosen according to the preliminary guidelines. I chose an artifact to add software design and engineering, algorithms and data structure, and databases. Upon completing these tasks, I can see my ePortfolio come to life and show how more professional I have become. When I do get a job in the Computer Science field, I will have an even better understanding of how to become even more professional.
 
 In my first artifact, I decided to use my Inventory mobile app, designed in Java, to add features for software design and engineering. This app had a few different screens, or pages, that navigated from a login page, to an inventory page, and a settings page. I added an extra page that allowed the user to add a bio and change each page to light or dark, based on their preference. Overall, I used new concepts and broke barriers when it came to making a new page. Upon completing the bio page, I learned that I could perfect other areas of my original app even further, such as clearing the line after pressing enter and allowing a smoother transition when navigating between the pages. Overall, my artifact was a success.
