@@ -30,22 +30,22 @@ Through all three enhancements, I was able to use software design and engineerin
 
 Throughout everything I have learned in this course and program, I am confident that I have completed and mastered all five of the course outcomes.
 
-* *Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
+Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science*
 
 In the first artifact, I allowed the user to choose between light and dark in the app. The user could also add a bio to tell the world a little bit about themselves. In the third artifact, I constructed a database to allow users to search for any user in the database that they wanted to see. These developments meet the course outcome.
 
-* *Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts
+*Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts*
 
 In the first and second artifact, I cleaned up the code and added more comments to support how I made the app function correctly. These cleanups were necessary because when working with larger projects, it can get hard to read and redundant code can bog the program down. These developments meet the course outcome.
 
-* *Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices
+*Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices*
 
 In all three artifacts, I recoded certain parts of the programs to solve problems and allow the programs to function properly. In the first artifact, I cleaned up the code and allowed the user to navigate the pages more efficiently. In the second artifact, I changed the random number algorithm to get rid of redundant code. In the third artifact, I used a database to allow the user a way to search for screen names. These developments meet the course outcome.
 
-* *Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals
+*Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals*
 
 In all of the artifacts, I used techniques, skills, and tools to implement solutions and deliver the correct outcome. In the first artifact I allowed the user to navigate the pages correctly, change their bio, and choose between light and dark. In the second artifact, I deleted redundant code to provide a smoother outcome when the program was running. In the third artifact, I created a database that allowed for the correct users to be provided, at lightning speed, upon the user’s request. These developments meet the course outcome. 
 
-* *Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
+*Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources*
 
 In the third artifact, I used a list view and array list to keep the data contained. The database was not left to the open, but contained. If need be, security protocols can be added to provide some usernames to be hidden. In this case, it was not needed. These developments meet the course outcomes.
